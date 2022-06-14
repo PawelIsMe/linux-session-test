@@ -1,5 +1,5 @@
 k1: start chrome https://www.youtube.com/watch?v=Y9oxU2onN8E&ab_channel=GENZIE
 k2: start chrome https://www.youtube.com/watch?v=mkKteoXE-X0&ab_channel=MrBeastGaming
 k3: start cmd
-k4: xd
+k4: start cmd
 
