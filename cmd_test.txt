@@ -1,1 +1,5 @@
+k1: start chrome https://www.youtube.com/watch?v=mkKteoXE-X0&ab_channel=MrBeastGaming
+k2: start chrome https://translate.google.pl/?hl=pl&sl=pl&tl=en&text=Witam%20XDD%20latwo&op=translate
+k3: start cmd
+k4: xd
 
